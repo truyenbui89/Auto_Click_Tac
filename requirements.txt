@@ -1,0 +1,6 @@
+selenium
+requests
+webdriver_manager
+beautifulsoup4
+pysocks
+selenium-wire
